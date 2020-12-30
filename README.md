@@ -14,4 +14,4 @@
 12.Clustering (SpectralClustering, KMeans - Silhuette metric)\
 13.Association Rules (Apriori algorithm)\
 14.Final Python project (tweet characterization - 3 classes - MultinomialNB)\
-15.Bibliographical research (Automated Machine Learning)\
+15.Bibliographical research (Automated Machine Learning)
